@@ -3,15 +3,6 @@
 # From Raw to Reliable: Transforming a Dirty Dataset into Business-Ready Data
 A real-world data cleaning project showcasing how raw, inconsistent data can be transformed into a reliable asset for decision-making.
 
-## Project Snapshot
-
-**Dataset Size:** XXXX rows, XXXX columns
-**Records Cleaned:** XX% of total data
-**Duplicates Removed:** XXXX entries
-**Missing Values Handled:** XXXX fields
-**Processing Time Reduced:** XX% after cleaning
-
----
 
 ## 📖 The Story
 
